@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Box2D" type="flex">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desenvolvimento/Flash/ce2/Source/Box2D.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
